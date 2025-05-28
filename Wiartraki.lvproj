@@ -69,6 +69,7 @@
 			<Item Name="Read DAQmx Config.vi" Type="VI" URL="../support/Read DAQmx Config.vi"/>
 			<Item Name="save_to_db.vi" Type="VI" URL="../save_to_db.vi"/>
 			<Item Name="save_to_tdms.vi" Type="VI" URL="../save_to_tdms.vi"/>
+			<Item Name="Data_handling.vi" Type="VI" URL="../Data_handling.vi"/>
 			<Item Name="Initialize Acquisition.vi" Type="VI" URL="../support/Initialize Acquisition.vi"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
