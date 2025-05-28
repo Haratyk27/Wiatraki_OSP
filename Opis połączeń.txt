@@ -1,0 +1,11 @@
+Korzystamy z 2 akcelerometrów
+
+akcelerometr 1:
+y - 0
+x - 1
+
+akcelerometr 2:
+y - 2
+x-  3
+
+Napięcie ref - 4
