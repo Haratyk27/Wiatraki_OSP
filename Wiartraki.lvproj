@@ -67,6 +67,8 @@
 			<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/Set Enable State on Multiple Controls.vi"/>
 			<Item Name="Write DAQmx Config.vi" Type="VI" URL="../support/Write DAQmx Config.vi"/>
 			<Item Name="Read DAQmx Config.vi" Type="VI" URL="../support/Read DAQmx Config.vi"/>
+			<Item Name="save_to_db.vi" Type="VI" URL="../save_to_db.vi"/>
+			<Item Name="save_to_tdms.vi" Type="VI" URL="../save_to_tdms.vi"/>
 			<Item Name="Initialize Acquisition.vi" Type="VI" URL="../support/Initialize Acquisition.vi"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
@@ -75,7 +77,6 @@
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="save_to_db.vi" Type="VI" URL="../save_to_db.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="openg_error.lvlib" Type="Library" URL="/&lt;userlib&gt;/_OpenG.lib/error/error.llb/openg_error.lvlib"/>
