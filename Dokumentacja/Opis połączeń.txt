@@ -8,4 +8,5 @@ akcelerometr 2:
 y - 2
 x-  3
 
-  
+Napięci zasilania dla akcelerometrów
+Vref - 4
