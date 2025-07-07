@@ -1,12 +1,12 @@
 Korzystamy z 2 akcelerometrów
 
 akcelerometr 1:
-y - 0
-x - 1
+y - AI 0
+x - AI 1
 
 akcelerometr 2:
-y - 2
-x-  3
+y - AI 2
+x-  AI 3
 
 Napięci zasilania dla akcelerometrów
-Vref - 4
+Vref - AI 4
